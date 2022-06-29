@@ -3,5 +3,5 @@ Esta saga de libros cuentan la histori de Larry
 Plotter, un hacker excepcional
 
 
-**Fabio Contreras**
+**Fabio Contreras**, larry plotter fan
 
